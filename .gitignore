@@ -38,3 +38,5 @@ target/
 .classpath
 .project
 *.class
+**/application.properties
+
